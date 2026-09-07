@@ -1,6 +1,6 @@
 # ÆTHRA — Agent Intelligence Exchange
 
-## Windows Setup — NO DOCKER REQUIRED
+
 
 ### 1. Extract the ZIP
 
